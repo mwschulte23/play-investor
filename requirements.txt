@@ -1,7 +1,6 @@
-pandas
-numpy
-requests
-streamlit
-plotly
-alpaca_trade_api
+pandas==1.2.3
+streamlit==0.79.0
 watchdog
+numpy==1.20.2
+plotly==4.14.3
+alpaca_trade_api==1.1.0
