@@ -4,3 +4,4 @@ requests
 streamlit
 plotly
 alpaca_trade_api
+watchdog
